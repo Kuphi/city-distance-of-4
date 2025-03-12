@@ -1,3 +1,3 @@
-# city-distance-of-5
+# city-distance-of-4
 
-Unciv mod. Increases the minimal city distance to 5 
+Unciv mod. Increases the minimal city distance to 4
